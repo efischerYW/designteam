@@ -2,12 +2,13 @@
 name: Propose New Component
 about: Definition of done template
 title: 'Proposal for new component: <insert idea here>'
-labels: ''
+labels: New Component
 assignees: ''
 
 ---
 
 **Provide the following:**
+- [ ] Link to design:
 - [ ] What area of the product is this for?
 - [ ] Gmail, Outlook, or both?
 - [ ] Proposed name:
